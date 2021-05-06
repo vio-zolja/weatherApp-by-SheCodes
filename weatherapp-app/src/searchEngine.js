@@ -48,7 +48,7 @@ export default function SearchEngine(){
     
 
 
-            <WeatherInfo data={weather} />
+            <WeatherInfo data={weather} /> <hr />
             <WeatherForecast coordinates={weather.coordinates} />
 
             </div>
